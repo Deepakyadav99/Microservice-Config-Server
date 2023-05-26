@@ -1,4 +1,4 @@
-
+s
 eureka:
   client:
     fetch-registry: true 
